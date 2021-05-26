@@ -16,4 +16,4 @@ my dream is to become a full stack developer, I know the road is long and I am s
 In my free time a like to learn languages, as **"English"** and **"Spanish"**, I am a person who has a very good learning ability and, <br>
 of course, step by step, in addition I am very focused on learning that subject that I want to learn.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mateus-barros-a7a78b159)](https://https://www.linkedin.com/in/mateus-barros-a7a78b159)
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mateus-barros)](https://https://www.linkedin.com/in/mateus-barros)
