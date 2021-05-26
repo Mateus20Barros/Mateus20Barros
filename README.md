@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
+My name is **Mateus Barros**, I'm verry passionate about technology. </br>
+I am currently very focused on the Front end, as I like to do something that makes other people happy. </br>
 
-**Mateus20Barros/Mateus20Barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My knowledges in Front-end are:
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JAVASCRIPT
+- SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+In this moment I've these Knowledges, but every day I study a lot to make my dreams come true. </br>
+my dream is to become a full stack developer, I know the road is long and I am sure that one day i will get there.
 
+In my free time a like to learn languages, as **"English"** and **"Spanish"**, I am a person who has a very good learning ability and, <br>
+of course, step by step, in addition I am very focused on learning that subject that I want to learn.
