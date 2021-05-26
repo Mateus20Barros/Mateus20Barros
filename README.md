@@ -20,5 +20,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-barros-a7a78b159/)](https://www.linkedin.com/in/mateus-barros-a7a78b159/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-b5179e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/mateus-barros-a7a78b159/)](https://www.instagram.com/mattews20barros/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0d41e1?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mateus-Barros/)](https://www.instagram.com/Matews-Barros/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0d41e1?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mateus-Barros/)](https://www.facebook.com/Matews-Barros/)
 ***
