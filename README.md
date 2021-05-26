@@ -18,6 +18,7 @@
 
 ### Find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-barros-a7a78b159/)](https://www.linkedin.com/in/mateus-barros-a7a78b159/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-barros-a7a78b159/)](https://www.instagram.com/mattews20barros/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/mateus-barros-a7a78b159/)](https://www.linkedin.com/in/mateus-barros-a7a78b159/)
 
 ***
