@@ -1,5 +1,5 @@
 ***
-### Hi there, I'm **Mateus**! 👋
+### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm **Mateus Barros**!
 
 :yellow_heart: I'm verry passionate about technology. <br>
 :man_technologist: My focus is on *__Front-end development__*. <br>
