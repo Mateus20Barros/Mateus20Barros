@@ -1,5 +1,5 @@
 ***
-### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm **Mateus Barros**!
+### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm **Mateus Barros!**
 
 💜 I'm verry passionate about technology. <br>
 👨‍💻 My focus is on *__Front-end development__*. <br>
@@ -13,9 +13,9 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"></code>
 
-🚀 In this moment I've these Knowledges, but every day I study a lot to make my dreams come true. <br>
-⭐ My dream is to become a full stack developer, I know the road is long and I am sure that one day i will get there. <br>
-🌎 In my free time a like to learn languages, as **_`English`_** and **_`Spanish`_** . <br>
+🚀 I've these Knowledges, but every day I study a lot to make my dreams come true. <br>
+⭐ My dream is to become a full stack developer, I know the road is long and I'm sure that one day I'll get there. <br>
+🌎 In my free time a like to learn languages as **_`English`_** and **_`Spanish`_** . <br>
 📚 Always focused on obtaining new knowledge in this wonderful world that is web development. <br>
 
 ### Find me
