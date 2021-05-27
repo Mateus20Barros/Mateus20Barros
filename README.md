@@ -15,8 +15,8 @@
 
 🚀 I've these Knowledges, but every day I study a lot to make my dreams come true. <br>
 ⭐ My dream is to become a full stack developer, I know the road is long and I'm sure that one day I'll get there. <br>
-🌎 In my free time a like to learn languages as **_`English`_** and **_`Spanish`_** . <br>
 📚 Always focused on obtaining new knowledge in this wonderful world that is web development. <br>
+🌎 In my free time a like to learn languages as **_`English`_** and **_`Spanish`_** . <br>
 
 ### Find me
 
