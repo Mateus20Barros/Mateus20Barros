@@ -15,7 +15,7 @@
 ##
 
 ***<h3> :rocket: Technologies </h3>***
-<br>
+
 <div>
   <a href="https://github.com/Mateus20Barros">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
