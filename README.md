@@ -1,6 +1,6 @@
 ***
 <div>
-  <img align="right" width="170" height="170" alt="Rafa-yoda" src="https://i.pinimg.com/originals/e6/2a/fd/e62afd154b9ec394b7d282c7ef8e688c.gif">
+  <img align="right" width="150" height="150" alt="Rafa-yoda" src="https://i.pinimg.com/originals/e6/2a/fd/e62afd154b9ec394b7d282c7ef8e688c.gif">
 </div> 
 
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm **Mateus Barros!** 
@@ -8,6 +8,9 @@
 💜 I'm verry passionate about technology. <br>
 👨‍💻 My focus is on *__Front-end development__*. <br>
 🤩 I like to do something that makes other people happy. </br>
+📚 Always focused on obtaining new knowledge in this wonderful world that is web development. <br>
+⭐ My dream is to become a full stack developer, I know the road is long and I'm sure that one day I'll get there. <br>
+🌎 In my free time a like to learn languages as **_`English`_** and **_`Spanish`_** . <br>
 
 ### :rocket: Technologies 
 
@@ -18,12 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="40" align="center"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" align="center"/>
 </div>
-
-<br>
-
-⭐ My dream is to become a full stack developer, I know the road is long and I'm sure that one day I'll get there. <br>
-📚 Always focused on obtaining new knowledge in this wonderful world that is web development. <br>
-🌎 In my free time a like to learn languages as **_`English`_** and **_`Spanish`_** . <br>
 
 ### Find me
 <div> 
