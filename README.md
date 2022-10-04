@@ -44,7 +44,7 @@
 
 <div style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green" height="245">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green" height="243">
 </div>
 
 ##
