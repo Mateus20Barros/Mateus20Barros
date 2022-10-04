@@ -10,7 +10,7 @@
 💜 **I'm verry passionate about technology.** <br>
 🤩 **I like to do something that makes other people happy.** </br>
 📚 **Always focused on obtaining new knowledges in this wonderful world that is development.** <br>
-🌎 **In my free time a like to learn languages as **_`English`_** and **_`Spanish`_**** <br>
+🌎 **In my free time a like to learn languages as **_`English`_** and **_`Spanish`_****
 
 ##
 
@@ -34,14 +34,22 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-***<h3> 🚀 Others Programming Languages </h3>***
+***<h3> 🚀 Others Technologies </h3>***
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Language-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
-  
+
+<br>
+
+<div style="display: inline-block">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green" height="245">
+</div>
+
 ##
 
-***<h3>🔥 My Commits</h3>***
+***<h3>🔥 Snake Commits</h3>***
 ![Snake animation](https://github.com/Mateus20Barros/Mateus20Barros/blob/output/github-contribution-grid-snake.svg)
 
 ##
