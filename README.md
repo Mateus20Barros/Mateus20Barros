@@ -39,11 +39,11 @@
   <img src="https://img.shields.io/badge/Language-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
 <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green" width="100%">
+
 <div style="display: inline-block">
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green">
 </div>
 
 ##
