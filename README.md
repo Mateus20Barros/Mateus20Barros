@@ -42,8 +42,8 @@
 <br>
 
 <div style="display: inline-block">
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green">
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green">
 </div>
 
 
