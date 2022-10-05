@@ -39,32 +39,12 @@
   <img src="https://img.shields.io/badge/Language-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
 <br>
 
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&theme=blue-green">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&theme=blue-green">
 </div>
 
-
-##
-
-***<h3>🔥 Snake Commits</h3>***
-![Snake animation](https://github.com/Mateus20Barros/Mateus20Barros/blob/output/github-contribution-grid-snake.svg)
-
-##
-
-***<h3>:mailbox: Find me</h3>***
-<div> 
-  <a href="https://www.linkedin.com/in/mateus-barros-a7a78b159/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/matteus__barros/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-b5179e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:matteusmaciel40@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-  
 ***
