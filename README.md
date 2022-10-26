@@ -6,7 +6,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Mateus Barros!
 
 👨‍💻 **Software Developer** <br>
-💜 **I'm verry passionate about technology** <br>
+💜 **I'm very passionate about technology** <br>
 🤩 **I like to do something that makes other people happy** </br>
 📚 **Always focused on obtaining new knowledges in this wonderful world that is development** <br>
 🌎 **In my free time a like to learn languages as **_`English`_** and **_`Spanish`_****
