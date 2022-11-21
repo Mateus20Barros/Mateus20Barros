@@ -41,11 +41,10 @@
 
 <br>
 
-
-<div align="left">
-  <a href="https://github.com/Mateus20Barros">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/mateus20barros">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateus20barros&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus20barros&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ***
