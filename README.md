@@ -9,7 +9,7 @@
 💜 ***I'm very passionate about technology*** <br>
 🤩 ***I like to do something that makes other people happy*** </br>
 📚 ***Always focused on obtaining new knowledges in this wonderful world that is development*** <br>
-🌎 ***In my free time a like to learn languages as ***_`English`_*** and ***_`Spanish`_******
+🌎 ***In my free time a like to learn languages as ***_`English`_*** and ***_`Spanish`_****** </br>
 
 <div style="display: inline-block">
   <div style="display: inline-block">
