@@ -21,7 +21,7 @@
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="37"/></code>
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="37"/></code>
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="37" width="37"/></code>
-  </div> </br>
+  </div> </br></br>
   
   <div style="display: inline-block">
     <a href="https://github.com/mateus20barros">
